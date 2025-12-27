@@ -30,3 +30,7 @@ jspm_packages/
 
 # Ignore OS specific files
 Thumbs.db
+
+# Bundler files
+.bundle/
+vendor/bundle/
