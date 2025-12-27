@@ -4,13 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="docs/images/page-profile.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;
-            -webkit-filter: grayscale(100%);
-            filter: grayscale(100%);
-        }"
-/>
+![DevOps Cat](./docs/images/page-profile.png)
 
 ## Welcome
 
@@ -20,10 +14,6 @@ As a passionate DevOps engineer, I am deeply enthusiastic about building and man
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<div style="text-align: center;">
-
 |AWS|Azure|Docker|GitHub|Helm|Kubernetes|
-|---|---|---|---|---|---|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 |<i class="devicon-amazonwebservices-plain-wordmark" style="font-size: 48px;"></i>|<i class="devicon-azure-plain" style="font-size: 48px;"></i>|<i class="devicon-docker-plain" style="font-size: 48px;"></i>|<i class="devicon-github-original" style="font-size: 48px;"></i>|<i class="devicon-helm-original" style="font-size: 48px;"></i>|<i class="devicon-kubernetes-plain" style="font-size: 48px;"></i>|
-
-</div>
