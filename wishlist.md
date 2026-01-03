@@ -30,3 +30,8 @@ permalink: /wishlist/
 ## Ikea
 
 * [Gutschein](https://www.ikea.com/de/de/gift-cards/personalise/)
+
+## Sonstiges
+
+* 2x [Fürthermare - Wasserlandschaft Normaltarif](https://www.fuerthermare.de/informationen/gutscheinshop)
+* [Tapas Kochkurs Erlangen](https://triviar.de/course/10262?cl=Erlangen)
