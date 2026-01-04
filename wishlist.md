@@ -31,6 +31,11 @@ permalink: /wishlist/
 
 * [Gutschein](https://www.ikea.com/de/de/gift-cards/personalise/)
 
+## Hawaiihemden
+
+* [Beachside Blossom](https://kahala.com/products/beachside-blossom?variant=45160061567033)
+* [Laniakea](https://kahala.com/products/laniakea-ss-shirt?variant=45049579700281)
+
 ## Sonstiges
 
 * 2x [Fürthermare - Wasserlandschaft Normaltarif](https://www.fuerthermare.de/informationen/gutscheinshop)
