@@ -10,12 +10,10 @@ permalink: /wishlist/
 
 ## Tee und Co
 
-* [Einhandkanne "Japan Kyusu Tokoname Gyokko" (140ml)](https://www.teegschwendner.de/Einhandkanne-Japan-Kyusu-Tokoname-Gyokko-140ml/13152)
 * [Gutschein](https://www.teegschwendner.de/Gutscheine/)
 
 ## 3d Printing und Co
 
-* [Digitales Multimeter](https://www.ifixit.com/de-de/products/digital-multimeter)
 * [iFixit Lötstation](https://www.ifixit.com/de-de/products/fixhub-soldering-toolkit)
 * [FixHub Lötspitze konisch-spitz](https://www.ifixit.com/de-de/products/fixhub-soldering-iron-cone-tip)
 * [3D Druck, Gewindeeinsätze](https://www.reichelt.de/de/de/shop/produkt/3d_druck_gewindeeinsaetze_m2_m3_m4_m5_270_stueck-332221)
@@ -39,4 +37,3 @@ permalink: /wishlist/
 ## Sonstiges
 
 * 2x [Fürthermare - Wasserlandschaft Normaltarif](https://www.fuerthermare.de/informationen/gutscheinshop)
-* [Tapas Kochkurs Erlangen](https://triviar.de/course/10262?cl=Erlangen)
