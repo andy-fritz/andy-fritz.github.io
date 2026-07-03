@@ -3,7 +3,6 @@ layout: post
 title:  "How to: Separating Jekyll posts"
 date:   2026-01-02 12:58:37 +0100
 categories: how-to github
-excerpt: "I will show you how you can have multiple _posts folder in your repo"
 ---
 
 By default, Jekyll displays all posts stored in the `_posts` folder of your GitHub repository. But what if you want to organize posts into separate folders?
