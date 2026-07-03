@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to: Separating Jekyll posts"
-date:   2026-01-02 12:58:37 +0100
+date:   2026-01-05 12:58:37 +0100
 categories: how-to github
 ---
 
