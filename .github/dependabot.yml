@@ -8,3 +8,8 @@ updates:
     schedule:
       # Check for updates to GitHub Actions every week
       interval: "weekly"
+    groups:
+      # Group all GitHub Actions updates into a single pull request
+      github-actions:
+        patterns:
+          - "*"
