@@ -14,7 +14,7 @@ Having a `K8s cluster` running on `multiple Raspberry Pi nodes` with the `least 
 
 The following diagram shows the initial setup of a cluster that has a single-node K3s server with an embedded SQLite database. Two K3s agents are registered to teh server node.
 
-![K3s Architecture](/docs/images/k3s_architecture.drawio.png)
+![K3s Architecture]({{ "/assets/images/k3s_architecture.drawio.png" | relative_url }})
 
 ## Hosted Applications
 
