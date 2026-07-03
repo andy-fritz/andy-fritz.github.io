@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
+<style>
+        img {
+            -webkit-filter: grayscale(100%);
+            filter: grayscale(100%);
+        }
+</style>
+
 ## Welcome
 
+<img src="/assets/images/page-profile.png" alt="drawing" width="150" style="float: left; margin: 0 20px 10px 0;" alt="filter applied"/>
 As a passionate DevOps engineer, I am deeply enthusiastic about building and managing cloud environments. I thrive on automating processes, optimizing infrastructure, and ensuring the scalability and reliability of applications. I am constantly exploring new tools and technologies in the DevOps ecosystem and applying them to create efficient and secure solutions. I am driven by the challenge of solving complex problems and delivering seamless deployment and continuous integration workflows. I am committed to delivering high-quality, scalable, and resilient cloud-based solutions that empower businesses to succeed in the digital era.
 
 ## My Skills
