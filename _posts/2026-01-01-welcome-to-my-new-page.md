@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to new page!"
+title:  "Welcome to my new page!"
 date:   2026-01-01 12:58:37 +0100
 ---
 

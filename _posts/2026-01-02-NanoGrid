@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "NanoGrid"
+date:   2026-01-02 12:58:37 +0100
+---
+
+## Project Announcement
+
+**I'm starting work on NanoGrid!**
+
+This project aims to build a lightweight Kubernetes cluster across multiple Raspberry Pi nodes with minimal manual configuration. The cluster will host my complete software stack, enabling self-hosted solutions for web services, DNS, secrets management, CI/CD, and more—all running on affordable, energy-efficient hardware in custom 3D-printed enclosures.
+
+You can check out my [nanogrid project]({% link _project_posts/2025-12-27-nanogrid-idea.md %}).
