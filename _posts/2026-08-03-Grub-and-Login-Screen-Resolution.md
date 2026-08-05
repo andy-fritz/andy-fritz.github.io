@@ -89,7 +89,7 @@ Reboot and you should see both GRUB and your login screen at full resolution.
 
 ### Finding Your Supported Resolutions
 
-If 5120x1440 doesn't work, you'll need to find what your graphics card supports. To see available modes, boot into GRUB, press `c` to enter command mode, and type:
+If 5120x1440 doesn't work, you'll need to find what your graphics card supports. To see available modes, boot into GRUB, press <kbd>c</kbd> to enter command mode, and type:
 
 ```bash
 videoinfo
