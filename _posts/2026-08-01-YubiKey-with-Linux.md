@@ -3,6 +3,7 @@ layout: post
 title:  "YubiKey with Linux"
 date:   2026-08-01 12:58:37 +0100
 categories: linux how-to
+thumbnail: /assets/thumbnails/linux.png
 ---
 
 The **YubiKey** is one of the most secure method to allow access to your Linux system. Instead of only entering a password, you can use the **YubiKey** as a **second factor** or as the only possible login method.

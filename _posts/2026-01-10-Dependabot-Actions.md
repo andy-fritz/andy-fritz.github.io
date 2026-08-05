@@ -3,6 +3,7 @@ layout: post
 title:  "Keeping your Github actions up to date with Dependabot"
 date:   2026-01-10 12:58:37 +0100
 categories: how-to github
+thumbnail: /assets/thumbnails/github.png
 ---
 
 You can use Dependabot to keep the actions you use updated to the latest versions.

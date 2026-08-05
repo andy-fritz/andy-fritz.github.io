@@ -3,6 +3,7 @@ layout: post
 title:  "Fixing GRUB & Login Screen Resolution on Ubuntu"
 date:   2026-08-03 12:58:37 +0100
 categories: linux how-to
+thumbnail: /assets/thumbnails/linux.png
 ---
 
 A few months back, I set up Ubuntu 24.04 on my PC and immediately noticed an annoying issue: while my monitor supports 5120x1440, both the boot menu and login screen were stuck at much lower resolutions—640x480 for GRUB and 1920x1080 for GDM3. This post covers how to get both displaying at full native resolution.
