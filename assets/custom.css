@@ -4,6 +4,7 @@
   --background-color: #faf9f7;
   --code-color: #c8c9ca;
   --brand-color: #d4663b;
+  --visited-brand-color: #a64e2a;
   --grey-color: #8b8680;
   --bold-color: #ffb86c;
 }
@@ -23,7 +24,7 @@ a {
 }
 
 a:visited {
-  color: #a64e2a;
+  color: var(--visited-brand-color);
 }
 
 .highlighter-rouge .highlight { background: #282a36; }
