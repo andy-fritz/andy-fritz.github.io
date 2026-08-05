@@ -187,3 +187,20 @@ blockquote > :last-child {
 hr {
   background-color: var(--grey-color);
 }
+
+/* More prominent separator */
+.post-list{
+  list-style: none;
+  padding-left: 0;
+  /* Indents the list text */
+  margin-left: 1em; 
+}
+.post-list > li {
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--brand-color);
+}
+  
+.post-list > li:last-child {
+  border-bottom: none;
+}
