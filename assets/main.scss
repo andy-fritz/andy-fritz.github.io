@@ -213,19 +213,27 @@ hr {
 }
 
 .post-card {
+    position: relative;
     background: var(--background-color);
     border: 1px solid #ececec;
     border-radius: 10px;
     padding: 1.5rem;
     margin-bottom: 1.5rem;
     transition: all .2s ease;
+    cursor: pointer;
 }
 
 .post-card:hover {
-    background: #ffffff;
-    border-color: #dddddd;
-    box-shadow: 0 6px 18px rgba(0,0,0,.05);
     transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(0,0,0,.05);
+    border-color: #d9d0c7;
+    background: #ffffff;
+}
+
+.stretched-link::after {
+    content: "";
+    position: absolute;
+    inset: 0;
 }
 
 .post-card-header {
@@ -236,8 +244,10 @@ hr {
 
 .post-thumbnail {
     width: 120px;
-    height: 120px;
-    border-radius: 8px;
+    max-width: 120px;
+    aspect-ratio: 1/1;
+    border: 2px solid var(--brand-color);
+    border-radius: 50%;
     object-fit: cover;
     flex-shrink: 0;
 }
