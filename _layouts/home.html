@@ -15,7 +15,7 @@ layout: default
     {%- for post in site.posts -%}
     <li class="post-card">
       {%- assign thumb = post.thumbnail | default: "/assets/thumbnails/thumbnail.png" -%}
-
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <div class="post-card-header">
         <img src="{{ thumb | relative_url }}" alt="{{ post.title | escape }}" class="post-thumbnail">
 
